@@ -5,8 +5,8 @@ font-family: sans-serif;
 padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: purple;
-    background-color: #100729 }
+		  color: rgb(0, 0, 0);
+    background-color: #F5F5DC }
 	  ul.navbar {
      list-style-type: none;
     padding: 0;
